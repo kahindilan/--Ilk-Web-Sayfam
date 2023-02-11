@@ -1,2 +1,2 @@
-# -İlkk-Web-Sayfam
+# -İlk-Web-Sayfam
 Kodluyoruz sayesinde yaptığım ilk Web Sayfam
